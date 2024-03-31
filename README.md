@@ -8,13 +8,21 @@ Maximum Marks - 18
 The Submission should not contain spaces, for example /rct-101 folder/eval will not work
 Do not push node_modules and package_lock.json to github
  ✅ able to submit the app - 1 mark ( minimum score )
+ 
  ✅ Check if navbar is present on all pages - 2 mark
+ 
  ✅ Check if page is redirected to home component correctly on clicking Home - 2 marks
+ 
  ✅ Check if page is redirected to about component correctly on clicking About - 2 marks
+ 
  ✅ Check if page is redirected to contact component correctly on clicking Contact - 2 marks
+ 
  ✅ Check if products page is private - 3 marks
+ 
  ✅ Check if auth is working properly, and login page is redirecting to home after authentication - 3 marks
+ 
  ✅ Check if products page is working properly - 3 marks
+ 
 Installation
 Use node version(LTS) should be v16.16.0
 
@@ -75,15 +83,7 @@ Login page should be accessible after loging in, rather redirect the user to "/"
 Use context api to maintain state in the application:
 
 Your initial state should have isAuth as false
-Screenshot 2022-12-22 at 3 17 16 PM
 
-Screenshot 2022-12-22 at 3 17 43 PM
-
-Screenshot 2022-12-22 at 3 17 49 PM
-
-Screenshot 2022-12-22 at 3 17 55 PM
-
-Screenshot 2022-12-22 at 3 18 02 PM
 
 General Instructions (IMPORTANT)
 Do not use Global CSS, instead use <componentName>.module.css convention for Css in that file.
